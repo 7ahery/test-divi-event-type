@@ -4,7 +4,7 @@
   "license": "GPL-2.0-or-later",
   "types": "build-types/index.d.ts",
   "dependencies": {
-    "@divi/types": "workspace:^",
+    "@divi/types": "github:7ahery/test-divi-types",
     "seamless-immutable": "^7.1.4"
   }
 }

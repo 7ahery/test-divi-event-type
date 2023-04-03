@@ -4,8 +4,7 @@
   "license": "GPL-2.0-or-later",
   "types": "build-types/index.d.ts",
   "dependencies": {
-    "@divi/types": "1.0.0",
-    "@types/divi__module": "1.0.0",
+    "@divi/types": "workspace:^",
     "seamless-immutable": "^7.1.4"
   }
 }
